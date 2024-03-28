@@ -138,7 +138,7 @@ Bus.html
 </html>
 ```
 ## OUTPUT
-![alt text](<image map.png>)
+![image](https://github.com/Pavithrasaravanakumar/NearMe/assets/150664013/a79e47f8-c7a5-41cd-ad37-4636ec3c6d6a)
 ![alt text](temple.png)
 ![alt text](college.png)
 ![alt text](theppakulam.png)
